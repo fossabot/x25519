@@ -1,4 +1,5 @@
 # x25519.rb [![Latest Version][gem-shield]][gem-link] [![Build Status][build-image]][build-link] [![Appveyor CI Status][appveyor-image]][appveyor-link] [![Yard Docs][docs-image]][docs-link] [![License: BSD 3-Clause][license-image]][license-link] [![Gitter Chat][gitter-image]][gitter-link]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funderscorgan%2Fx25519.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Funderscorgan%2Fx25519?ref=badge_shield)
 
 [gem-shield]: https://badge.fury.io/rb/x25519.svg
 [gem-link]: https://rubygems.org/gems/x25519
@@ -292,6 +293,9 @@ Copyright (c) 2017-2018 Armando Faz, Tony Arcieri
 
 This gem is available as open source under the terms of the
 BSD-3 Clause License ([LICENSE](./LICENSE))
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Funderscorgan%2Fx25519.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Funderscorgan%2Fx25519?ref=badge_large)
 
 ## Code of Conduct
 
